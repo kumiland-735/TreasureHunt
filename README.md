@@ -28,7 +28,8 @@ Minecraft Java版で利用できるプラグイン「宝探しゲーム」です
 　　
 
 ## プレイ説明動画
-https://github.com/user-attachments/assets/328fb28c-6021-4626-aee5-f0ccc79fe693
+
+https://github.com/user-attachments/assets/21413111-65ea-4671-8c2a-058284b09870
 
 
 
